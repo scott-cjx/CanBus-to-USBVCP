@@ -1,0 +1,10 @@
+../Core/Src/can.c:7:6:task_canhw	1
+../Core/Src/can.c:12:6:init_canhw	1
+../Core/Src/can.c:19:6:deinit_canhw	1
+../Core/Src/can.c:24:6:_canhw_set_filter	1
+../Core/Src/can.c:42:6:_canhw_set_irq	1
+../Core/Src/can.c:47:6:_canhw_start	1
+../Core/Src/can.c:52:6:_debug_canhw_senderror	5
+../Core/Src/can.c:73:6:_debug_can_print_msg	1
+../Core/Src/can.c:81:6:cb_can_rx	1
+../Core/Src/can.c:92:6:canhw_send	2
